@@ -1,3 +1,0 @@
-[submodule "submodule"]
-	path = submodule
-	url = https://github.com/ADU-21/test_git_submodule.git
